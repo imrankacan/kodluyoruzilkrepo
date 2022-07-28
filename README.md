@@ -1,8 +1,9 @@
-# kodluyoruzilkrepo
 
 # Kodluyoruz Ilk Repo
 Bu repo [Hızlandırma Programı](https://app.patika.dev/) için oluşturduğum repo. (Kodluyoruz Eğitimi Kapsamında Açtığım İlk Repo)
 ![github](figures/github.JPG)
+[patika.dev](www.patika.dev)
+
 ## Installation
 Öncelikle projeyi klonlayın
 '''
