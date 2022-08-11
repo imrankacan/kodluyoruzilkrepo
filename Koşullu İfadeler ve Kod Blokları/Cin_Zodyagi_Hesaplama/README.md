@@ -1,7 +1,7 @@
 
 https://app.patika.dev/imrankacan
 
-#Çin Zodyağı nasıl hesaplanır?
+# Çin Zodyağı nasıl hesaplanır?
 
 Çin zodyağı hesaplanırken kişinin doğum yılının 12 ile bölümünde kalana göre bulunur.
 
