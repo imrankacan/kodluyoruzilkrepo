@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Döngüler/Döngüler.iml" filepath="$PROJECT_DIR$/Döngüler/Döngüler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Koşullu İfadeler ve Kod Blokları/Koşullu İfadeler ve Kod Blokları.iml" filepath="$PROJECT_DIR$/Koşullu İfadeler ve Kod Blokları/Koşullu İfadeler ve Kod Blokları.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metotlar/PalindromSayi/PalindromSayi.iml" filepath="$PROJECT_DIR$/Metotlar/PalindromSayi/PalindromSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Temel Kavramlar ve Değişkenler/Temel Kavramlar ve Değişkenler.iml" filepath="$PROJECT_DIR$/Temel Kavramlar ve Değişkenler/Temel Kavramlar ve Değişkenler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Döngüler/asal-sayi-bulma/asal-sayi-bulma.iml" filepath="$PROJECT_DIR$/Döngüler/asal-sayi-bulma/asal-sayi-bulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Döngüler/atm-projesi/atm-projesi.iml" filepath="$PROJECT_DIR$/Döngüler/atm-projesi/atm-projesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Döngüler/basamak-sayilarinin-toplami/basamak-sayilarinin-toplami.iml" filepath="$PROJECT_DIR$/Döngüler/basamak-sayilarinin-toplami/basamak-sayilarinin-toplami.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Döngüler/combination/combination.iml" filepath="$PROJECT_DIR$/Döngüler/combination/combination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Döngüler/ebob-ekok/ebob-ekok.iml" filepath="$PROJECT_DIR$/Döngüler/ebob-ekok/ebob-ekok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metotlar/exponentiation/exponentiation.iml" filepath="$PROJECT_DIR$/Metotlar/exponentiation/exponentiation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Döngüler/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/Döngüler/fibonacci/fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Döngüler/girilen-sayilardan-max-min-bulma/girilen-sayilardan-max-min-bulma.iml" filepath="$PROJECT_DIR$/Döngüler/girilen-sayilardan-max-min-bulma/girilen-sayilardan-max-min-bulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Döngüler/harmonik-sayi/harmonik-sayi.iml" filepath="$PROJECT_DIR$/Döngüler/harmonik-sayi/harmonik-sayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kodluyoruzilkrepo.iml" filepath="$PROJECT_DIR$/.idea/kodluyoruzilkrepo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Döngüler/mukemmel-sayi/mukemmel-sayi.iml" filepath="$PROJECT_DIR$/Döngüler/mukemmel-sayi/mukemmel-sayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Döngüler/ters-ucgen/ters-ucgen.iml" filepath="$PROJECT_DIR$/Döngüler/ters-ucgen/ters-ucgen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metotlar/untitled/untitled.iml" filepath="$PROJECT_DIR$/Metotlar/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metotlar/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/Metotlar/untitled1/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Döngüler/us-alma/us-alma.iml" filepath="$PROJECT_DIR$/Döngüler/us-alma/us-alma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Döngüler/yildizlar-ile-elmas-yapimi/yildizlar-ile-elmas-yapimi.iml" filepath="$PROJECT_DIR$/Döngüler/yildizlar-ile-elmas-yapimi/yildizlar-ile-elmas-yapimi.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/artik-yil-hesaplama" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/burc-bulan-program" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cin-zodyagi-hesaplama" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hava-sıcaklığına-göre-etkinlik-önerme" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hesap-makinesi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kullanıcı-girisi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sayilari-büyükten-küçüge-siralama" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sinifi-gecme-durumu" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ucak-bileti-fiyati-hesaplama" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
